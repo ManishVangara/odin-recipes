@@ -1,0 +1,15 @@
+a{
+    font-size:26px;
+    color: cadetblue;
+}
+
+ul{
+    color: olivedrab;
+    /* background-color: lavender; */
+}
+
+h1{
+    background-color: bisque;
+    color:rgba(181, 40, 40, 0.541);
+    text-align: center;
+}

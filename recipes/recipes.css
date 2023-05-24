@@ -1,0 +1,21 @@
+h1{
+    color:brown;
+}
+
+h3{
+    font-size: 28px;
+    font-family: 'Wix Madefor Display', sans-serif;
+    background-color: lavender;
+}
+
+p,
+li{
+    font-family: 'Raleway', sans-serif;
+}
+
+img{
+    height:300px;
+    width:auto;
+}
+
+
